@@ -1,0 +1,6 @@
+print("line A \n line B\n line c ")
+print("my name is \t anas")
+print("this is back \salash ")
+print("this is the double back slash\\")
+print("when we need double back slash than we\\\\")
+print("helll\bo")

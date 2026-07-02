@@ -16,8 +16,7 @@
 # def is_even(num):
 #     if num%2 == 0:
 #        return True
-#     else:
-#         return False
+#     else:#         return False
 # print(is_even(9))
 
 # def is_even(num):

@@ -14,8 +14,8 @@ while not game_over:
             guess+=1
             number=int(input("guess again"))
         else:
-            print("too high")
-            guess+=1
-            number=int(input("guess again:"))
+          print("too high")
+        guess+=1
+        number=int(input("guess again:"))
             #dry prinipal dont repeat your code
             

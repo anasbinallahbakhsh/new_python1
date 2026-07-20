@@ -1,0 +1,6 @@
+string=("anas is very good student and he is very slow in study")
+print(string.replace('is','was'))
+position_of_is=string.find("is")
+print(position_of_is)
+position_of_is2=string.find("is",position_of_is+1)
+print(position_of_is2)

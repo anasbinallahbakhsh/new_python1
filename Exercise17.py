@@ -1,3 +1,5 @@
-words=["ans","zoh","mal"]
-reversed.words
-print(words)
+name=["anas","malik","zohaib"]
+print(name.reverse[::-1])
+
+
+

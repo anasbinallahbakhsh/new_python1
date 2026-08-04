@@ -11,5 +11,5 @@ Example=['one','two','three']
 #method 
 #count , index
 #len funcation                                        
-#slicing
+#slicingcd E:
 print(Example[:2])

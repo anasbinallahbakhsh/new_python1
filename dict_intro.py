@@ -39,3 +39,4 @@ user_info2['name']='mohit'
 user_info2['age']='16'
 print(user_info2)
 # How to add data in  empty dictionary
+0

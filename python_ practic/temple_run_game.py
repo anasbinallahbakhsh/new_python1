@@ -12,7 +12,7 @@ Controls:
 Requirements:
   pip install pygame
 """
-
+p
 import pygame
 import random
 import sys

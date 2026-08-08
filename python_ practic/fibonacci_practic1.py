@@ -10,7 +10,7 @@ def fibonacci_seq(n):
     for i in range(n-2):
              c=a+b
             a=b 
-            b=c
-    print(b, end=" ")
-    ibonacci_seq(10)
+  b=c
+print(b, end=" ")
+ibonacci_seq(10)
 

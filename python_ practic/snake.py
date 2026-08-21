@@ -14,7 +14,7 @@ font=pygame.font.SysFont(None,30)
 
 snake=[(WIDTH//2, HEIGHT//2)]
 direction=(1,0)
-next_direction=direction
+next_direction=direction5
 
 def new_food():
     while True:

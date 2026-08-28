@@ -10,11 +10,23 @@ pygame.display.set_caption("Snake Game")
 clock = pygame.time.Clock()
 
 BLACK=(0,0,0); GREEN=(0,220,0); RED=(220,40,40); WHITE=(255,255,255)
-font=pygame.font.SysFont(None,30)
 
-snake=[(WIDTH//2, HEIGHT//2)]
-direction=(1,0)
-next_direction=direction5
+
+
+
+font = pygame.font.SysFont(None, 30)
+
+snake = [(WIDTH // 2, HEIGHT // 2)]
+
+direction = (1, 0)
+
+next_direction = direction
+
+
+
+
+
+
 
 def new_food():
     while True:

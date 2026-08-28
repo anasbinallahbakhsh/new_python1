@@ -1,4 +1,4 @@
-kkikkkkprint(2+2*3)
+print(2+2*3)
 print(2/4) # foloting point division
 print(4/2)
 print(4//2) #integer division

@@ -1,7 +1,8 @@
 def is_palindrome(word):
-    reverse_word = word[::-1]
-    if word == reverse_word:
-      return True
-     else:
+    reversed_word = word[::-1]
+    if word == reversed_word:
+     return True
+    else:
        return False
-    print
+print(is_palindrome("anas"))#false
+print(is_palindrome("level"))#true

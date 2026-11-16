@@ -1,0 +1,4 @@
+# shorcuts
+# li
+# ls
+# touch

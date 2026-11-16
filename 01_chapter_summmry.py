@@ -1,4 +1,4 @@
-k# chapter one summry 
+# chapter one summry 
 #print funcation
 print(" anas\"zohaib\'") 
 #escape sequences
